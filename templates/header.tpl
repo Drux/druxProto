@@ -1,0 +1,1 @@
+<h1><a href="index.php">{TPL_VAR_SITENAME}</a></h1>
