@@ -3,7 +3,7 @@
     define("BREADCRUMB_SEPERATOR", " > ");
 
 
-    define("HOME_SITE_CONTENT_FOLDER", "[0]home");
+    define("HOME_SITE_CONTENT_FOLDER", "home");
     define("STYLESHEET", "css/style.css?v=2");
 
     #NAVIGATION SETTINGS
